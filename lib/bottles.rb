@@ -36,8 +36,6 @@ class Bottles
     case number
     when 1
       "bottle"
-    when 6
-      "six-pack"
     else
       "bottles"
     end
